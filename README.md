@@ -1,1 +1,2 @@
-# coding-project-template
+# e-plantShopping
+# Practice react project
